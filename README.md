@@ -1,7 +1,7 @@
 # Telegram → GoFile Uploader
 
 Automatically downloads media from a Telegram topic and uploads to GoFile.io
-
+<!-- trigger -->
 ## Railway Environment Variables
 
 Set these in Railway → Project → Variables:
